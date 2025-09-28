@@ -1,4 +1,4 @@
-# secodary-users-ux-case
+# secondary-users-ux-case
 
 Written plans and ideas for the prompt here: https://github.com/Erioldoesdesign/secodary-users-ux-case/blob/main/plans-and-ideas.md 
 
