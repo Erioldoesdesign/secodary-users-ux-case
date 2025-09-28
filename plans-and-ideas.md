@@ -1,4 +1,4 @@
-# secodary-users-ux-case
+# secondary-users-ux-case
 
 # Ideas & problem statement
 
